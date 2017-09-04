@@ -17,6 +17,7 @@ import com.example.fanjinwei20170904.R;
  * Created by 范晋炜 on 2017/9/4 0004.
  * com.example.fanjinwei20170904.view
  * MySelfCircleView
+ * 自定义View  设置各属性及效果显示
  */
 
 
